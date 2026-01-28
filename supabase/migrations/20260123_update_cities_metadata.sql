@@ -1,0 +1,4 @@
+
+ALTER TABLE public.cities 
+ADD COLUMN IF NOT EXISTS image_url TEXT,
+ADD COLUMN IF NOT EXISTS description TEXT;

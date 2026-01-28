@@ -6,8 +6,8 @@
 - 首页、城市页、活动详情等界面示例（可在仓库添加图片后展示）  
   - 将截图放入 `docs/screenshots/` 并在下方替换路径即可
   - 示例：
-    - ![数据库总览](image/database.png.png)
-    - ![主页面](image/mainpage.png.png)
+    - ![数据库总览](image/database.png)
+    - ![主页面](image/mainpage.png)
     - ![城市活动汇总](image/incity.png)
 
 ## 关键特性
